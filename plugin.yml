@@ -1,0 +1,5 @@
+name: ClayCore
+version: 1.0.0
+authors: [DXX]
+main: pt.dnx.ccore.Core
+commands:
